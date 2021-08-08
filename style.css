@@ -1,0 +1,19 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Title {
+    width: 100%;
+    margin-top: 0;
+    font-size: 100%;
+}
+
+.Title {
+    font-size: 20px;
+    line-height: 2;
+}
+
+ul {
+    font-size: 20px;
+}
